@@ -11,7 +11,7 @@ status-website:
   baseUrl: /uptime-monitor
   theme: night
   name: Uptime Monitor
-  introTitle: "Uptime monitor and status page for Etriphany"
+  introTitle: "Etriphany's uptime monitors"
   navbar:
     - title: Status
       href: /
