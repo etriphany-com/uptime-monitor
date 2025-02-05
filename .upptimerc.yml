@@ -1,14 +1,21 @@
 owner: etriphany
 repo: uptime-monitor
+
 sites:
   - name: Etriphany
-    url: https://www.etriphany.com
+    url: http://www.etriphany.com
   - name: GreenKeeper API
     url: https://green-keeper-vercel.vercel.app
+
 status-website:
   baseUrl: /uptime-monitor
   name: Uptime Monitor
-  theme: light
+  introTitle: "Uptime monitor and status page for Etriphany"
+  navbar:
+    - title: Status
+      href: /
+    - title: Etriphany
+      href: http://www.etriphany.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
