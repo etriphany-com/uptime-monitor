@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Etriphany",
+    "url": "https://www.etriphany.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.etriphany.com.ico",
+    "slug": "etriphany",
+    "status": "down",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-02-05": 9
+    }
+  },
+  {
+    "name": "GreenKeeper API",
+    "url": "https://green-keeper-vercel.vercel.app",
+    "icon": "https://icons.duckduckgo.com/ip3/green-keeper-vercel.vercel.app.ico",
+    "slug": "green-keeper-api",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2025-02-05": 9
+    }
+  }
+]
