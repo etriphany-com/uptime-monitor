@@ -6,7 +6,7 @@ sites:
   - name: GreenKeeper API
     url: https://green-keeper-vercel.vercel.app
 status-website:
-  baseUrl: /status
+  baseUrl: / uptime-monitor
   theme: light
 
 workflowSchedule:
