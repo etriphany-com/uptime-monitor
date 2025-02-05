@@ -9,6 +9,7 @@ sites:
 
 status-website:
   baseUrl: /uptime-monitor
+  theme: ocean
   name: Uptime Monitor
   introTitle: "Uptime monitor and status page for Etriphany"
   navbar:
