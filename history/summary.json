@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.etriphany.com.ico",
     "slug": "etriphany",
     "status": "down",
-    "uptime": "4.26%",
-    "uptimeDay": "4.26%",
-    "uptimeWeek": "4.26%",
-    "uptimeMonth": "4.26%",
-    "uptimeYear": "4.26%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/green-keeper-vercel.vercel.app.ico",
     "slug": "green-keeper-api",
     "status": "down",
-    "uptime": "3.17%",
-    "uptimeDay": "3.17%",
-    "uptimeWeek": "3.17%",
-    "uptimeMonth": "3.17%",
-    "uptimeYear": "3.17%",
-    "time": 307,
-    "timeDay": 307,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 9
     }
   }
 ]
