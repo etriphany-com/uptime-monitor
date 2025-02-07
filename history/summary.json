@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.etriphany.com.ico",
     "slug": "etriphany",
     "status": "up",
-    "uptime": "57.60%",
-    "uptimeDay": "57.60%",
-    "uptimeWeek": "57.60%",
-    "uptimeMonth": "57.60%",
-    "uptimeYear": "57.60%",
-    "time": 670,
-    "timeDay": 670,
-    "timeWeek": 670,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "uptime": "96.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "96.67%",
+    "time": 624,
+    "timeDay": 349,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2025-02-05": 52
     }
@@ -30,13 +30,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 451,
-    "timeDay": 451,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "time": 525,
+    "timeDay": 1490,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-02-06": 39,
+      "2025-02-07": 39,
+      "2025-02-06": 1440,
       "2025-02-05": 84
     }
   }
