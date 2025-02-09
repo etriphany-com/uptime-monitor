@@ -13,7 +13,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://etriphany.github.io/uptime-monitor)
+[**Visit our status website →**](https://etriphany-com.github.io/uptime-monitor)
 
 ## Some details
 
