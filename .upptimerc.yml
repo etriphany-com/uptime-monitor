@@ -8,7 +8,7 @@ sites:
     url: https://green-keeper-vercel.vercel.app
 
 status-website:
-  cname: code.etriphany.com
+  cname: status.etriphany.com
   theme: night
   name: Uptime Monitor
   introTitle: "Etriphany's uptime monitors"
