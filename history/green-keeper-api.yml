@@ -1,7 +1,7 @@
-url: https://green-keeper-vercel.vercel.app
-status: down
-code: 403
-responseTime: 434
-lastUpdated: 2025-02-15T23:16:31.739Z
+url: https://green-keeper-vercel.vercel.app/health
+status: up
+code: 200
+responseTime: 277
+lastUpdated: 2025-02-16T04:17:00.476Z
 startTime: 2025-02-05T22:36:23.964Z
 generator: Upptime <https://github.com/upptime/upptime>
