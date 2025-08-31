@@ -75,7 +75,7 @@
     "url": "https://green-keeper-vercel.vercel.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/green-keeper-vercel.vercel.app.ico",
     "slug": "green-keeper-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.34%",
     "uptimeDay": "98.64%",
     "uptimeWeek": "98.98%",
