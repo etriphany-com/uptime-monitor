@@ -4,8 +4,12 @@ repo: uptime-monitor
 sites:
   - name: Etriphany
     url: http://www.etriphany.com
+    type: globalping
+    location: aws+europe,aws+north america,aws+south america --limit 2
   - name: GreenKeeper API
     url: https://green-keeper-vercel.vercel.app/health
+    type: globalping
+    location: aws+europe,aws+north america,aws+south america --limit 2
 
 status-website:
   cname: status.etriphany.com
