@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 450,
-    "timeDay": 359,
-    "timeWeek": 335,
-    "timeMonth": 438,
+    "timeDay": 363,
+    "timeWeek": 365,
+    "timeMonth": 437,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-09-30": 32,
@@ -40,8 +40,7 @@
       "2025-05-31": 17,
       "2025-05-28": 12,
       "2025-05-25": 11,
-      "2025-05-24": 11,
-      "2025-05-22": 31
+      "2025-05-24": 11
     }
   },
   {
@@ -50,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/green-keeper-vercel.vercel.app.ico",
     "slug": "green-keeper-api",
     "status": "up",
-    "uptime": "97.40%",
+    "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 2446,
-    "timeDay": 4133,
-    "timeWeek": 2977,
-    "timeMonth": 2998,
-    "timeYear": 1966,
+    "time": 2449,
+    "timeDay": 4201,
+    "timeWeek": 3297,
+    "timeMonth": 3056,
+    "timeYear": 1971,
     "dailyMinutesDown": {
       "2025-12-21": 36,
       "2025-12-12": 13,
