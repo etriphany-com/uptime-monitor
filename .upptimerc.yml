@@ -3,11 +3,15 @@ repo: uptime-monitor
 
 sites:
   - name: Etriphany
-    url: http://www.etriphany.com
+    url: https://www.etriphany.com
     type: globalping
     location: aws+europe,aws+north america,aws+south america --limit 2
   - name: GreenKeeper API
     url: https://green-keeper-vercel.vercel.app/health
+    type: globalping
+    location: aws+europe,aws+north america,aws+south america --limit 2
+  - name: Fluent Beats
+    url: https://fluent-beats.github.io
     type: globalping
     location: aws+europe,aws+north america,aws+south america --limit 2
 
@@ -20,7 +24,9 @@ status-website:
     - title: Status
       href: /
     - title: Etriphany
-      href: http://www.etriphany.com
+      href: https://www.etriphany.com
+    - title: Fluent Beats
+      href: https://fluent-beats.github.io
 
 workflowSchedule:
   graphs: "0 0 * * *"
